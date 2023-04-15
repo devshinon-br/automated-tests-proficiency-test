@@ -1,4 +1,4 @@
-describe("Teste de integração: calculadora de soma", function() {
+describe("Teste funcional e de integração: calculadora de soma", function() {
     it("Deve conseguir acessar a tela inicial", function() {
         cy.visit("http://localhost:3000");
     });
