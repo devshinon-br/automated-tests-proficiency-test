@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# The project *automated-tests-proficiency-test* - Frontend
+## ***IFTM college activity***
+### This project is finished
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The objective of this application is to create a simple React-based web application that has implemented at least one unit test and one integration test.
+
+To put this project into practice it was used:
+- *JS*,
+- *CSS*,
+- *Cypress*,
+- *React Testing Library*.
+
+## Project setup
 
 ## Available Scripts
 
